@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="left">Olá, muito prazer! Me chamo Bruno Santos. </h1>
 
-<!--
-**brunods97/brunods97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div display=infline-flex align=center >
+  
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<a href="https://linkedin.com/in/linkedin.com/in/danilojmedeiros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danilojmedeiros/" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/danilodejesusmedeiros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/danilodejesusmedeiros/" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram.com/danilojmedeiros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/danilojmedeiros/" height="30" width="40" /></a> 
+</p> 
+  
